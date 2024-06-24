@@ -84,6 +84,7 @@ After the build is done the test results are available in `Allure`, `Allure Test
 <img alt="Allure" src="./media/reports/AllureReportExample.png"> 
 
 `Allure` report includes request and response logging beautified with `tpl` templates:
+
 <img alt="Allure2" src="./media/reports/AllureReportExample2.png">
 
 
@@ -91,6 +92,7 @@ After the build is done the test results are available in `Allure`, `Allure Test
 ## <img alt="Allure" height="25" src="./media/logo/AllureTestOps.svg" width="25"/></a> Integration with <a target="_blank" href="https://allure.autotests.cloud/project/4305/dashboards">Allure TestOps</a>
 
 `Allure TestOps` processes tests as a documentation and allows to launch them directly from TMS. 
+
 Here all test cases execution results are available. 
 
 Dashboard contains test runs statistics:
@@ -99,7 +101,7 @@ Dashboard contains test runs statistics:
 All test cases:
 <img alt="Cases1" src="./media/reports/TestOpsAutomated.png">
 
-To execute tests from TestOps move to Jobs:
+To execute tests from TestOps move to <a target="_blank" href="https://allure.autotests.cloud/project/4305/jobs">Jobs</a>:
 <img alt="Launch" src="./media/reports/LaunchJob1.png">
 
 Click to run Job, select needed/all items and submit launch:
